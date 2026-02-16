@@ -81,7 +81,7 @@ example.png.b64
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
 0123456789
-+ /
+\+ /
 
 ---
 
