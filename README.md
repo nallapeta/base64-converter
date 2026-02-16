@@ -78,10 +78,12 @@ example.png.b64
 
 ## 📚 Base64 Character Set
 
+```
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
 abcdefghijklmnopqrstuvwxyz
 0123456789
-\+ /
++ /
+```
 
 ---
 
